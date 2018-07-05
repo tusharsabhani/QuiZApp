@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/space2"
+    tools:context=".Main3Activity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/instruction"
+            android:textSize="@dimen/headingText"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/headingText"
+            android:layout_marginStart="@dimen/five">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/welcome"
+                android:textColor="#FFFFFF"
+                android:paddingRight="@dimen/wordDistance"
+                android:textSize="@dimen/fifteen"/>
+
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/name"
+                android:textColor="#FFFFFF"
+                android:textSize="@dimen/fifteen"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/fifteen"
+                android:textColor="#FFFFFF"
+                android:text="@string/welcomeLine"/>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/five"
+            android:text="@string/quiz"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/fifteen"/>
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textColor="#FFFFFF"
+           android:layout_marginTop="@dimen/ten"
+           android:text="@string/instructionsOne"
+           android:layout_marginStart="@dimen/five"
+           android:textSize="@dimen/fifteen"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/partOne"
+            android:textColor="#FFFFFF"
+            android:layout_marginStart="@dimen/twenty"
+            android:textSize="@dimen/fifteen"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/partTwo"
+            android:textColor="#FFFFFF"
+            android:layout_marginStart="@dimen/twenty"
+            android:textSize="@dimen/fifteen"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/partThree"
+            android:textColor="#FFFFFF"
+            android:layout_marginStart="@dimen/twenty"
+            android:textSize="@dimen/fifteen"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/instructionsTwo"
+            android:layout_marginStart="@dimen/five"
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="@dimen/ten"
+            android:textSize="@dimen/fifteen"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/marksOne"
+            android:layout_marginStart="@dimen/twenty"
+            android:textSize="@dimen/fifteen"
+            android:textColor="#FFFFFF"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/marksTwo"
+            android:textColor="#FFFFFF"
+            android:layout_marginStart="@dimen/twenty"
+            android:textSize="@dimen/fifteen"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/marksThree"
+            android:layout_marginStart="@dimen/twenty"
+            android:textSize="@dimen/fifteen"
+            android:textColor="#FFFFFF"/>
+
+        <Button
+            android:id="@+id/start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/start"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/thirty"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

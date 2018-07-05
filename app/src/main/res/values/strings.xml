@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">QuiZApp</string>
+    <string name="Space_quiz">SPACE QUIZ</string>
+    <string name="textHint">Enter your name</string>
+    <string name="quote">The Universe is under no obligation to make sense to you</string>
+    <string name="quoteBy">- Neil deGrasse Tyson</string>
+    <string name="background">Image is used for background</string>
+    <string name="next">NEXT</string>
+
+    <!--ques one B-->
+    <string name="quesOne">Q1.How many planets are there in our solar system?</string>
+    <string name="oneA">Seven</string>
+    <string name="oneB">Eight</string>
+    <string name="oneC">Nine</string>
+    <string name="oneD">Six</string>
+
+    <!--ques two D-->
+    <string name="quesTwo">Q2.Which is the largest moon of Jupiter?</string>
+    <string name="twoA">Europa</string>
+    <string name="twoB">Lo</string>
+    <string name="twoC">Callisto</string>
+    <string name="twoD">Ganymede</string>
+
+    <!--ques three C-->
+    <string name="quesThree">Q3.Which is the largest asteroid in the asteroid belt in the solar system?</string>
+    <string name="threeA">Vesta</string>
+    <string name="threeB">Pallas</string>
+    <string name="threeC">Ceres</string>
+    <string name="threeD">Remus</string>
+
+    <!--ques four A-->
+    <string name="quesFour">Q4.The sun is ____ million kilometres away from the earth.</string>
+    <string name="fourA">150</string>
+    <string name="fourB">140</string>
+    <string name="fourC">160</string>
+    <string name="fourD">170</string>
+
+    <!--ques five B-->
+    <string name="quesFive">Q5.Into how many groups are the planets divided?</string>
+    <string name="fiveA">5</string>
+    <string name="fiveB">2</string>
+    <string name="fiveC">3</string>
+    <string name="fiveD">6</string>
+
+    <!--ques six ABD-->
+    <string name="quesSix">Q6.Which of the following are moons of Uranus?</string>
+    <string name="sixA">Miranda</string>
+    <string name="sixB">Ariel</string>
+    <string name="sixC">Lo</string>
+    <string name="sixD">Francisco</string>
+
+    <!--ques seven BD-->
+    <string name="quesSeven">Q7.How much time does the Earth takes to complete one rotation?</string>
+    <string name="sevenA">1480 minutes</string>
+    <string name="sevenB">24 hours</string>
+    <string name="sevenC">86500 seconds</string>
+    <string name="sevenD">1440 minutes</string>
+
+    <!--ques eight BC-->
+    <string name="quesEight">Q8.Which of the following planets lie between Earth and the sun?</string>
+    <string name="eightA">Uranus</string>
+    <string name="eightB">Venus</string>
+    <string name="eightC">Mercury</string>
+    <string name="eightD">Neptune</string>
+
+    <!--ques nine Neil Armstrong-->
+    <string name="quesNine">Q9.Who was the first man to land on moon?</string>
+    <string name="neilPic">Neil Armstrong pic</string>
+
+    <!--ques ten  National Aeronautics and Space Administration-->
+    <string name="quesTen">Q10.Write down the full form of NASA</string>
+    <string name="nasa">NASA symbol</string>
+
+    <string name="hint">Enter your answer</string>
+
+    <string name="instruction">INSTRUCTIONS</string>
+
+    <string name="instructionsOne">1)The quiz has bee divided into three parts</string>
+    <string name="partOne">- Single Choice Questions(5 questions)</string>
+    <string name="partTwo">- Multiple Choice Questions(3 questions)</string>
+    <string name="partThree">- Write the answer(2 questions)</string>
+
+    <string name="instructionsTwo">2)Marking scheme is as follows :-</string>
+    <string name="marksOne">- One mark for each single choice question </string>
+    <string name="marksTwo">- Five marks for each multiple choice question(marks will only be provided if all correct answers are checked)</string>
+    <string name="marksThree">- Ten marks for each write the answer </string>
+
+    <string name="start">START QUIZ</string>
+    <string name="welcome">Welcome </string>
+    <string name="name">name</string>
+    <string name="welcomeLine">, following are the instructions </string>
+    <string name="quiz">for the quiz</string>
+    <string name="atb">ALL THE BEST</string>
+    <string name="exclamation">!!!</string>
+    <string name="submit">SUBMIT</string>
+</resources>

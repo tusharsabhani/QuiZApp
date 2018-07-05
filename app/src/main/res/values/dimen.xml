@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="headingText">40sp</dimen>
+    <dimen name="thirty">30dp</dimen>
+    <dimen name="oneFiveZero">150dp</dimen>
+    <dimen name="twoHundred">200dp</dimen>
+    <dimen name="five">5dp</dimen>
+    <dimen name="twenty">20dp</dimen>
+    <dimen name="fifteen">15sp</dimen>
+    <dimen name="ten">10dp</dimen>
+    <dimen name="wordDistance">4dp</dimen>
+    <dimen name="atb">20sp</dimen>
+</resources>
